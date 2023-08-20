@@ -1,0 +1,2 @@
+# GitIgnore
+ignore file
